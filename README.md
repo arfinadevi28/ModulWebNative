@@ -53,3 +53,6 @@ Menambah Data Buku
 
 Menambah Data Anggota
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/tambah%20anggota.PNG)
+
+Data Pinjaman
+![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/data%20pinjaman.PNG)
