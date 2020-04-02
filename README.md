@@ -34,3 +34,5 @@
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/anggota%20siperpus.PNG)
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/buku%20siperpus.PNG)
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/from%20tambah%20peminjaman.PNG)
+![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/tambah%20data1.PNG)
+![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/tambah%20anggota.PNG)
