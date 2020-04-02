@@ -47,6 +47,9 @@ From Tambah Peminjaman
 
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/from%20tambah%20peminjaman.PNG)
 
+Menambah Data Buku
 
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/tambah%20data1.PNG)
+
+Menambah Data Anggota
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/tambah%20anggota.PNG)
