@@ -29,10 +29,24 @@
 
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/relasi.PNG)
 
+
 # Modul Narative
+Tampilan Dashboard
+
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/siperpus.PNG)
+
+Data Anggota
+
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/anggota%20siperpus.PNG)
+
+Data Buku
+
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/buku%20siperpus.PNG)
+
+From Tambah Peminjaman
+
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/from%20tambah%20peminjaman.PNG)
+
+
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/tambah%20data1.PNG)
 ![Alt Text](https://github.com/arfinadevi28/ModulWebNative/blob/master/tambah%20anggota.PNG)
